@@ -1,0 +1,8 @@
+Data (Values):
+
+Text values (e.g., in WHERE conditions) are usually case-sensitive by default, 
+depending on the collation settings of the database.
+For example, WHERE name = 'John' will not match 'john' unless case-insensitivity is specified 
+(e.g., with ILIKE in PostgreSQL, or using a case-insensitive collation).
+
+

@@ -1,0 +1,54 @@
+* adding new articles is super easy 
+always get the closest since like august 2024 or smt
+still need smt to be done w the ones that didn't get stored yet
+
+CRUD + login sign up 4 users stuff
+
+READ functions for articles to develop search
+
+**do tf-idf thing as well.
+
+DEVELOP SEARCH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Once a week, get new articles
+
+Once a month, get all articles again just in case changes made, etc
+
+monthly TF-IDF calc?
+
+
+
+
+{
+        "arxiv_id": "http://arxiv.org/abs/2409.03077v1",
+        "title": "Backdoor defense, learnability and obfuscation",
+        "authors": [
+            "Paul Christiano",
+            "Jacob Hilton",
+            "Victor Lecomte",
+            "Mark Xu"
+        ],
+        "published_date": "2024-09-04T21:05:42Z",
+        "pdf_url": "http://arxiv.org/pdf/2409.03077v1",
+        "comments": "29 pages",
+        "journal-ref": null,
+        "doi": null,
+        "abstract": "  We introduce a formal notion of defendability against backdoors using a game\nbetween an attacker and a defender. In this game, the attacker modifies a\nfunction to behave differently on a particular input known as the \"trigger\",\nwhile behaving the same almost everywhere else. The defender then attempts to\ndetect the trigger at evaluation time. If the defender succeeds with high\nenough probability, then the function class is said to be defendable. The key\nconstraint on the attacker that makes defense possible is that the attacker's\nstrategy must work for a randomly-chosen trigger.\n  Our definition is simple and does not explicitly mention learning, yet we\ndemonstrate that it is closely connected to learnability. In the\ncomputationally unbounded setting, we use a voting algorithm of Hanneke et al.\n(2022) to show that defendability is essentially determined by the VC dimension\nof the function class, in much the same way as PAC learnability. In the\ncomputationally bounded setting, we use a similar argument to show that\nefficient PAC learnability implies efficient defendability, but not conversely.\nOn the other hand, we use indistinguishability obfuscation to show that the\nclass of polynomial size circuits is not efficiently defendable. Finally, we\npresent polynomial size decision trees as a natural example for which defense\nis strictly easier than learning. Thus, we identify efficient defendability as\na notable intermediate concept in between efficient learnability and\nobfuscation.\n",
+        "categories": "cs.LG",
+        "scat": "csLG"
+    },

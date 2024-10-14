@@ -1,0 +1,166 @@
+final_result
+RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities
+  of Large Language Models
+Advancing Financial Risk Prediction Through Optimized LSTM Model
+  Performance and Comparative Analysis
+Self-Adversarial Learning with Comparative Discrimination for Text
+  Generation
+Robust Offline Reinforcement Learning with Gradient Penalty and
+  Constraint Relaxation
+Worst-case Performance of Popular Approximate Nearest Neighbor Search
+  Implementations: Guarantees and Limitations
+Learning Influence Functions from Incomplete Observations
+Diversified Top-k Partial MaxSAT Solving
+Visualizing and Understanding the Effectiveness of BERT
+Bayesian Optimization using Pseudo-Points
+Learning to Compare for Better Training and Evaluation of Open Domain
+  Natural Language Generation Models
+Towards Ground Truth Explainability on Tabular Data
+Exact Phase Transitions of Model RB with Slower-Growing Domains
+GDA-HIN: A Generalized Domain Adaptive Model across Heterogeneous
+  Information Networks
+Blow the Dog Whistle: A Chinese Dataset for Cant Understanding with
+  Common Sense and World Knowledge
+Exploring Memorization in Adversarial Training
+Structural Optimization Makes Graph Classification Simpler and Better
+Beyond Preserved Accuracy: Evaluating Loyalty and Robustness of BERT
+  Compression
+Hierarchical information matters: Text classification via tree based
+  graph neural network
+Value Penalized Q-Learning for Recommender Systems
+Gait Identification under Surveillance Environment based on Human
+  Skeleton
+Rethinking Efficient Lane Detection via Curve Modeling
+Multi-scale Attention Flow for Probabilistic Time Series Forecasting
+A Simple yet Effective Method for Graph Classification
+The maximum capability of a topological feature in link prediction
+Heterogeneous Multi-agent Zero-Shot Coordination by Coevolution
+Quantized Adaptive Subgradient Algorithms and Their Applications
+Monte Carlo Tree Search based Variable Selection for High Dimensional
+  Bayesian Optimization
+FedDef: Defense Against Gradient Leakage in Federated Learning-based
+  Network Intrusion Detection Systems
+Multi-agent Dynamic Algorithm Configuration
+Differentially Private Learning with Per-Sample Adaptive Clipping
+DoubleH: Twitter User Stance Detection via Bipartite Graph Neural
+  Networks
+Multimodal Federated Learning via Contrastive Representation Ensemble
+SAT Requires Exhaustive Search
+Deploying Offline Reinforcement Learning with Human Feedback
+Graph Collaborative Signals Denoising and Augmentation for
+  Recommendation
+Detecting Political Opinions in Tweets through Bipartite Graph Analysis:
+  A Skip Aggregation Graph Convolution Approach
+SEGA: Structural Entropy Guided Anchor View for Graph Contrastive
+  Learning
+Interactive Natural Language Processing
+Perception and Semantic Aware Regularization for Sequential Confidence
+  Calibration
+Macro Placement by Wire-Mask-Guided Black-Box Optimization
+Self-Supervised Learning for WiFi CSI-Based Human Activity Recognition:
+  A Systematic Study
+EQ-Net: Elastic Quantization Neural Networks
+SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision
+  Tasks with Real-time Performance on Mobile Device
+Towards Generalizable Neural Solvers for Vehicle Routing Problems via
+  Ensemble with Transferrable Local Policy
+Large Language Model for Science: A Study on P vs. NP
+Antenna Response Consistency Driven Self-supervised Learning for
+  WIFI-based Human Activity Recognition
+Diversity from Human Feedback
+Graph Neural Ordinary Differential Equations-based method for
+  Collaborative Filtering
+Stochastic Bayesian Optimization with Unknown Continuous Context
+  Distribution via Kernel Density Estimation
+Risk Taxonomy, Mitigation, and Assessment Benchmarks of Large Language
+  Model Systems
+Reinforced In-Context Black-Box Optimization
+Escaping Local Optima in Global Placement
+Defending Against Data Reconstruction Attacks in Federated Learning: An
+  Information Theory Approach
+Qubit-Wise Architecture Search Method for Variational Quantum Circuits
+Brain-on-Switch: Towards Advanced Intelligent Network Data Plane via
+  NN-Driven Traffic Analysis at Line-Speed
+A Selective Review on Statistical Methods for Massive Data Computation:
+  Distributed Computing, Subsampling, and Minibatch Techniques
+MGCP: A Multi-Grained Correlation based Prediction Network for
+  Multivariate Time Series
+Pencil: Private and Extensible Collaborative Learning without the
+  Non-Colluding Assumption
+Mixed Supervised Graph Contrastive Learning for Recommendation
+Enhancing Boundary Segmentation for Topological Accuracy with
+  Skeleton-based Methods
+Leveraging Logical Rules in Knowledge Editing: A Cherry on the Top
+GI-NAS: Boosting Gradient Inversion Attacks through Adaptive Neural
+  Architecture Search
+A Bi-metric Framework for Fast Similarity Search
+Offline Multi-Objective Optimization
+Quality-Diversity with Limited Resources
+Hidden Question Representations Tell Non-Factuality Within and Across
+  Large Language Models
+ImageFlowNet: Forecasting Multiscale Trajectories of Disease Progression
+  with Irregularly-Sampled Longitudinal Medical Images
+Robust and Reliable Early-Stage Website Fingerprinting Attacks via
+  Spatial-Temporal Distribution Analysis
+Structure-Aware Consensus Network on Graphs with Few Labeled Nodes
+Jailbreak Attacks and Defenses Against Large Language Models: A Survey
+Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts
+Walking in Others' Shoes: How Perspective-Taking Guides Large Language
+  Models in Reducing Toxicity and Bias
+NC-NCD: Novel Class Discovery for Node Classification
+Do We Really Need Graph Convolution During Training? Light Post-Training
+  Graph-ODE for Efficient Recommendation
+A Survey of Deep Learning for Group-level Emotion Recognition
+Exact Phase Transitions in Random Constraint Satisfaction Problems
+An Average Analysis of Backtracking on Random Constraint Satisfaction
+  Problems
+The SAT Phase Transition
+On the Average Similarity Degree between Solutions of Random k-SAT and
+  Random CSPs
+Intelligent Search of Correlated Alarms from Database containing Noise
+  Data
+The Algorithms of Updating Sequential Patterns
+When to Update the sequential patterns of stream data?
+Intelligent Search of Correlated Alarms for GSM Networks with
+  Model-based Constraints
+The Prioritized Inductive Logic Programs
+Many Hard Examples in Exact Phase Transitions with Application to
+  Generating Hard Satisfiable Instances
+A Simple Model to Generate Hard Satisfiable Instances
+From k-SAT to k-CSP: Two Generalized Algorithms
+On the Scaling Window of Model RB
+Exact phase transition of backtrack-free search with implications on the
+  power of greedy algorithms
+Mining Compressed Repetitive Gapped Sequential Patterns Efficiently
+Phase Transitions in Knowledge Compilation: an Experimental Study
+
+
+
+final_result[page_n]
+Rethinking Efficient Lane Detection via Curve Modeling
+Multi-scale Attention Flow for Probabilistic Time Series Forecasting
+A Simple yet Effective Method for Graph Classification
+The maximum capability of a topological feature in link prediction
+Heterogeneous Multi-agent Zero-Shot Coordination by Coevolution
+Quantized Adaptive Subgradient Algorithms and Their Applications
+Monte Carlo Tree Search based Variable Selection for High Dimensional
+  Bayesian Optimization
+FedDef: Defense Against Gradient Leakage in Federated Learning-based
+  Network Intrusion Detection Systems
+Multi-agent Dynamic Algorithm Configuration
+Differentially Private Learning with Per-Sample Adaptive Clipping
+DoubleH: Twitter User Stance Detection via Bipartite Graph Neural
+  Networks
+Multimodal Federated Learning via Contrastive Representation Ensemble
+SAT Requires Exhaustive Search
+Deploying Offline Reinforcement Learning with Human Feedback
+Graph Collaborative Signals Denoising and Augmentation for
+  Recommendation
+Detecting Political Opinions in Tweets through Bipartite Graph Analysis:
+  A Skip Aggregation Graph Convolution Approach
+SEGA: Structural Entropy Guided Anchor View for Graph Contrastive
+  Learning
+Interactive Natural Language Processing
+Perception and Semantic Aware Regularization for Sequential Confidence
+  Calibration
+Macro Placement by Wire-Mask-Guided Black-Box Optimization
